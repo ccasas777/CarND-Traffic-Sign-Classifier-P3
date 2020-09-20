@@ -145,13 +145,13 @@ Here are the results of the prediction:
 | Wild animals crossing					| Wild animals crossing				|
 
 
-| Probability         			|     Prediction	  									| 
+| Image	         			|     Prediction	  									| 
 |:-----------------------------:|:-----------------------------------------------------:| 
-| 1.0000         				| Right of way at next intersection  					|                             
-| 4.13169e-13  					| Beware of ice/snow 									|
-| 8.51969e-14					| Double curve											|
-| 2.26864e-14	      			| Pedestrians											|
-| 1.27746e-14				    | End of no passing by vehicles over 3.5 metric tons 	|
+| Right of way at next intersection         				| Right of way at next intersection				|                             
+| Priority road  					| Priority  road	 									|
+| Yield				| Yield														|
+| No entry		      			| No entry									|
+| Wild animals crossing				    | Wild animals crossing				|
 
 
 The model was able to correctly guess all traffic signs, which gives an Test Accuracy = 1.000. 
