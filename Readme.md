@@ -145,6 +145,15 @@ Here are the results of the prediction:
 | Wild animals crossing					| Wild animals crossing				|
 
 
+| Probability         			|     Prediction	  									| 
+|:-----------------------------:|:-----------------------------------------------------:| 
+| 1.0000         				| Right of way at next intersection  					|                             
+| 4.13169e-13  					| Beware of ice/snow 									|
+| 8.51969e-14					| Double curve											|
+| 2.26864e-14	      			| Pedestrians											|
+| 1.27746e-14				    | End of no passing by vehicles over 3.5 metric tons 	|
+
+
 The model was able to correctly guess all traffic signs, which gives an Test Accuracy = 1.000. 
 
 #### 3. Describe how certain the model is when predicting on each of the five new images by looking at the softmax probabilities for each prediction. Provide the top 5 softmax probabilities for each image along with the sign type of each probability. (OPTIONAL: as described in the "Stand Out Suggestions" part of the rubric, visualizations can also be provided such as bar charts)
