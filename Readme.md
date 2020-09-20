@@ -136,14 +136,6 @@ Here are five German traffic signs that I found on the web:
 
 Here are the results of the prediction:
 
-| Image									|		 Prediction					| 
-|:--------------				-------:|:---------------------------------:| 
-| Right of way at next intersection 	| Right of way at next intersection	|
-| Priority road							| Priority  road					|
-| Yield									| Yield								|
-| No entry								| No entry						 	|
-| Wild animals crossing					| Wild animals crossing				|
-
 
 | Image	         			|     Prediction	  									| 
 |:-----------------------------:|:-----------------------------------------------------:| 
